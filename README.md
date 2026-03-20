@@ -5,3 +5,4 @@ C:\Users\juand\OneDrive\mi-sitio-wed\recuperar.html
 C:\Users\juand\OneDrive\mi-sitio-wed\registro.html
 C:\Users\juand\OneDrive\mi-sitio-wed\wireframe.jpeg
 Primer proyecto CESDE
+C:\Users\juand\OneDrive\mi-sitio-wed\Certificado
